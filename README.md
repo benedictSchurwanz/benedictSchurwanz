@@ -15,3 +15,5 @@
 
 ### Languages and Tools:
 JavaScript | React | Redux | Node | Express | PostgreSQL | Ruby on Rails
+
+####### Persistence is key.
