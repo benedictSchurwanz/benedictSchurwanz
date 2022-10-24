@@ -4,7 +4,8 @@
 
 - 😄 Pronouns: He/him. It is important to me to treat all different people with respect. 
 
-- ⚡ Favorite emoji: 🤔  ...  Most often used emoji: 😁
+- ⚡ Favorite emoji: 🤔  
+  - Most often used emoji: 😁
 
 - 📫 Reach out to me at [benedict@schurwanz.net](mailto:benedict@schurwanz.net)
 
