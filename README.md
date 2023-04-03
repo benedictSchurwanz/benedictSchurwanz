@@ -1,8 +1,6 @@
 # Hi there! 👋
 
-- 🔭 I’m currently working on a fun project I've done a couple times before, a Battleship game (without infringing copyrights, of course). It's an interesting way to explore a new language or framework, and I can try to think of new ways to write the AI. 
-
-- 😄 Pronouns: He/him. It is important to me to treat all different people with respect. 
+- 🔭 I’m currently working on a fun project - [Boatfight!](https://github.com/benedictSchurwanz/boatfight) - a Battleship game (without infringing copyrights, of course). It's an interesting way to explore a new language or framework, and I can try to think of new ways to write the AI. My last shot at it was [Boat Attack](https://github.com/benedictSchurwanz/boatattack). 
 
 - ⚡ Favorite emoji: 🤔  
   - Most often used emoji: 😁
@@ -12,5 +10,7 @@
 
 ### Languages and Tools:
 JavaScript | React | Redux | Node | Express | PostgreSQL | Ruby on Rails
+
+- 😄 Pronouns: He/him
 
 ###### Everything is okay.
