@@ -11,6 +11,6 @@
 ### Languages and Tools:
 JavaScript | React | Redux | Node | Express | PostgreSQL | Ruby on Rails
 
-- 😄 Pronouns: He/him
+- 😁 Pronouns: He/him 🏳️‍🌈
 
 ###### Everything is okay.
